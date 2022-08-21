@@ -57,7 +57,7 @@ const Index = () => (
               <p className="font-semibold text-xl">Network monitoring</p>
               <p className="mt-4">
               Providing a high-end insight to your network with rich visualization for better insight and analytical decisions. 
-               </p>
+These high-end insights will allow us to give your team a full insight of your network in case of attack, and allow us to provide a recommendation to avoid attacks.                </p>
             </Card>
           </div>
         </div>

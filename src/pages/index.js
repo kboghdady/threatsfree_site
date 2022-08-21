@@ -67,10 +67,9 @@ const Index = () => (
       id="services"
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
-          <h3 className="text-3xl font-semibold leading-tight">Market Analysis</h3>
+          <h3 className="text-3xl font-semibold leading-tight">Helping you stay on top of cyber hygiene</h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Our team of enthusiastic marketers will analyse and evaluate how your company stacks
-            against the closest competitors
+          Vulnerability scanning is frequently used by hackers to help identify weak targets. Our managed vulnerability scanning service will help you to stay on top of cyber hygiene and avoid giving hackers an easy way to compromise your organisation.
           </p>
         </div>
       }
@@ -81,11 +80,12 @@ const Index = () => (
       primarySlot={
         <div className="lg:pl-32 xl:pl-48">
           <h3 className="text-3xl font-semibold leading-tight">
-            Design And Plan Your Business Growth Steps
+          Supplying actionable remediation guidance
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Once the market analysis process is completed our staff will search for opportunities
-            that are in reach
+            
+Supplying actionable remediation guidance
+For each vulnerability scan conducted, Redscan’s experts produce a clear and easy to understand report that describes the vulnerabilities discovered, assesses the business impact and provides actionable and prioritised remediation guidance.
           </p>
         </div>
       }
@@ -95,11 +95,10 @@ const Index = () => (
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
           <h3 className="text-3xl font-semibold leading-tight">
-            Search For Performance Optimization
+          Guiding future security investments
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            With all the information in place you will be presented with an action plan that your
-            company needs to follow
+          By working closely alongside your in-house security team, Redscan’s offensive security professionals can help you to develop your long-term security strategy, channel future security investments and ensure that processes are compliant with the latest security standards.
           </p>
         </div>
       }

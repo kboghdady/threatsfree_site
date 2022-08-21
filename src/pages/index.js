@@ -104,6 +104,22 @@ For each vulnerability scan conducted, Redscan’s experts produce a clear and e
       }
       secondarySlot={<SvgCharts />}
     />
+    <SplitSection
+      primarySlot={
+        <div className="lg:pr-32 xl:pr-48">
+          <h3 className="text-3xl font-semibold leading-tight">
+          Reducing the strain on in-house teams
+          </h3>
+          <p className="mt-8 text-xl font-light leading-relaxed">
+
+Reducing the strain on in-house teams
+Scheduling regular scans as well as analysing their outputs can be time and resource-intensive. A vulnerability management service alleviates the strain of undertaking these activities in-house and enables your in-house team to focus on addressing vulnerabilities rather than discovering them.
+          </p>
+        </div>
+      }
+      secondarySlot={<SvgCharts />}
+    />
+
     <section id="stats" className="py-20 lg:pt-32">
       <div className="container mx-auto text-center">
         <LabelText className="text-gray-600">Our customers get results</LabelText>

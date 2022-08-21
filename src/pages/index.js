@@ -54,10 +54,10 @@ const Index = () => (
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Reducing the strain on in-house teams</p>
+              <p className="font-semibold text-xl">Network monitoring</p>
               <p className="mt-4">
-              Scheduling regular scans as well as analysing their outputs can be time and resource-intensive. A vulnerability management service alleviates the strain of undertaking these activities in-house and enables your in-house team to focus on addressing vulnerabilities rather than discovering them.
-              </p>
+              Providing a high-end insight to your network with rich visualization for better insight and analytical decisions. 
+               </p>
             </Card>
           </div>
         </div>

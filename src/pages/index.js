@@ -33,32 +33,30 @@ const Index = () => (
     </section>
     <section id="features" className="py-20 lg:pb-40 lg:pt-48">
       <div className="container mx-auto text-center">
-        <h2 className="text-3xl lg:text-5xl font-semibold">Main Features</h2>
+        <h2 className="text-3xl lg:text-5xl font-semibold">Our Services</h2>
         <div className="flex flex-col sm:flex-row sm:-mx-3 mt-12">
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service One</p>
+              <p className="font-semibold text-xl">Vulnerability Scans</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+              Vulnerability scanning is vital to identifying security weaknesses and flaws in systems and codes running on them. Scanning is an integral component of a vulnerability management program,
+               which aims to protect the organization from breaches and exposures of sensitive data.
               </p>
             </Card>
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service Two</p>
+              <p className="font-semibold text-xl">Asset Security</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+              Asset security plays  important role in a cybersecurity program, that  lists the need to inventory and control hardware and software assets as its first two security measures. Along these lines, asset management is the first category in the NIST Cybersecurity Framework
               </p>
             </Card>
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service Three</p>
+              <p className="font-semibold text-xl">Reducing the strain on in-house teams</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+              Scheduling regular scans as well as analysing their outputs can be time and resource-intensive. A vulnerability management service alleviates the strain of undertaking these activities in-house and enables your in-house team to focus on addressing vulnerabilities rather than discovering them.
               </p>
             </Card>
           </div>

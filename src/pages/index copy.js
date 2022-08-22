@@ -121,6 +121,23 @@ Scheduling regular scans as well as analysing their outputs can be time and reso
       }
       secondarySlot={<SvgCharts />}
     />
+
+<SplitSection
+      reverseOrder
+      primarySlot={
+        <div className="lg:pl-32 xl:pl-48">
+          <h3 className="text-3xl font-semibold leading-tight">
+          Supplying actionable remediation guidance
+          </h3>
+          <p className="mt-8 text-xl font-light leading-relaxed">
+            
+Supplying actionable remediation guidance
+For each vulnerability scan conducted, Redscan’s experts produce a clear and easy to understand report that describes the vulnerabilities discovered, assesses the business impact and provides actionable and prioritised remediation guidance.
+          </p>
+        </div>
+      }
+      secondarySlot={<SvgCharts />}
+    />
     <section id="stats" className="py-20 lg:pt-32">
       <div className="container mx-auto text-center">
         <LabelText className="text-gray-600">Our customers get results</LabelText>

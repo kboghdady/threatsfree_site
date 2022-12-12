@@ -2,7 +2,7 @@ import React from 'react';
 
 const LogoIcon = () => (
   <?xml version="1.0" standalone="yes"?>
-  <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="32">
   <path style="fill:#ffffff; stroke:none;" d="M0 0L0 1000L1000 1000L1000 0L0 0z"/>
   <path style="fill:#a593b6; stroke:none;" d="M484 279L484 280L487 280L484 279z"/>
   <path style="fill:#b45572; stroke:none;" d="M408 414C408 383.34 409.015 355.938 429.465 331C468.239 283.715 542.817 287.832 576.304 339C592.424 363.631 592 390.695 592 419L610 419C610 386.652 610.434 356.174 591.921 328C555.895 273.172 472.868 261.338 425 308.015C405.644 326.889 391.247 352.415 390.039 380C389.77 386.144 387.391 401.259 391.028 406.351C393.961 410.457 403.322 412.72 408 414z"/>
